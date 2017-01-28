@@ -1,6 +1,6 @@
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
+abbr, acronym, address, big, cite, code,
 del, dfn, em, font, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
@@ -55,11 +55,11 @@ blockquote, q {
     quotes: "" "";
 }
 a:focus {
-    outline: thin dotted;
+    // outline: thin dotted;
 }
 a:hover,
 a:active { /* Improves readability when focused and also mouse hovered in all browsers people.opera.com/patrickl/experiments/keyboard/test */
-    outline: 0;
+    // outline: 0;
 }
 a img {
     border: 0;
